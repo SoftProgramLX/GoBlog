@@ -1,4 +1,4 @@
-In preparation of writing a blog post on GraphQL subscriptions with Kotlin, I first wanted to take a look at how to create a basic WebSockets example with Kotlin.
+In preparation222 of writing a blog post on GraphQL subscriptions with Kotlin, I first wanted to take a look at how to create a basic WebSockets example with Kotlin.
 
 Handling WebSockets, in the past, was a bit awkward in Java and many times people used node.js instead, as it felt a lot more natural there. In this post we will make another try at this with some more recent tech in the space: Kotlin and Spring Boot 2.0 (Spring 5).
 
