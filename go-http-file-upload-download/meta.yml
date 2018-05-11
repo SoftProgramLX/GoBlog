@@ -1,0 +1,10 @@
+title: HTTP File Upload and Download with Go 
+short: "One of Go's big upsides, for me, is its simplicity. This post shows another example of this, implementing a basic HTTP File Up- and Download using just the standard library."
+date: 10.12.2017
+tags:
+    - Go
+    - Golang
+    - file 
+    - http 
+    - upload 
+    - download 
